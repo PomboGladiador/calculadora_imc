@@ -12,3 +12,5 @@ class Pessoa {
     return peso / pow(altura, 2);
   }
 }
+
+// um arquivo criado para definir as classes
